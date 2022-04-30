@@ -1,0 +1,35 @@
+/************** Tag Selector **************/
+
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+h1, h3{
+  color: #66BFBF;
+}
+
+/*
+************** Class Selector **************
+
+.firstName{
+  color: red;
+}
+.profileImage:hover{
+  color: blue;
+}
+
+************* Id Selector *************
+
+#name{
+  color: red;
+}
+#rollnum:hover{
+  color: blue;
+}
+*/
